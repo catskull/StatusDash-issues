@@ -1,7 +1,7 @@
 ---
 name: Service Monitor Request
 about: Use this to request a new service be added to StatusDash
-title: ''
+title: Service request - NAME
 labels: ''
 assignees: ''
 
